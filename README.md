@@ -2,8 +2,8 @@
 - 👀 I’m interested in ... frontEnd with ReactJs
 - 🌱 I’m currently learning ... JavaScript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... just dm me on my linkdIn Id:- https://www.linkedin.com/in/avinash-kumar-481a7b201/
-   or insta id:- avinah_s97_
+- 📫 How to reach me ... just dm me on my linkdIn:- https://www.linkedin.com/in/avinash-kumar-481a7b201/
+   or insta id:- avinash_s97_
 - 😄 Pronouns: ... dhoop....
 - ⚡ Fun fact: ... Nasa Walle bhut khatarnaak hai...
 
